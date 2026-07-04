@@ -1,204 +1,157 @@
-<!-- Typing Banner -->
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?lines=AI+Engineer;Machine+Learning;Computer+Vision;Large+Language+Models;AI+Agents;Software+Engineering+Student">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning;Computer+Vision;Large+Language+Models;AI+Agents;Software+Engineering+Student" alt="Typing Animation" />
-  </a>
+<div align="center">
+
+# Tayyab Ali
+
+### `AI Engineer | Software Engineering Student`
+
+Building intelligent AI systems with Machine Learning, Computer Vision, Large Language Models, and AI Agents.
+
+<p>
+<a href="https://www.linkedin.com/in/tayyabalitech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tayyabalitechpro@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tayyabalitech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://devpost.com/tayyabalitech">
+<img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white"/>
+</a>
+
 </p>
 
-# Hi, I'm Tayyab Ali
-
-Software Engineering student at the National University of Technology (NUTECH), Islamabad, with hands on experience building AI applications using machine learning, deep learning, computer vision, natural language processing, large language models, and AI agents.
-
-I enjoy designing intelligent systems that combine AI models with software engineering principles to solve real world problems. My work spans the complete AI development lifecycle, from data preprocessing and model training to evaluation, inference, deployment, and backend integration.
+</div>
 
 ---
 
-## Technologies
+## About Me
 
-### Programming Languages
+I'm a Software Engineering undergraduate at the National University of Technology (NUTECH), Islamabad, with hands on experience designing, training, and deploying AI applications.
 
-Python • SQL • C++ • Java • JavaScript
+My work spans the complete AI development lifecycle, including data preprocessing, model training, evaluation, inference, deployment, and backend integration. I enjoy building intelligent systems that combine modern AI models with software engineering principles to solve real world problems.
+
+My primary interests include AI Engineering, Large Language Models, AI Agents, Computer Vision, Natural Language Processing, and Machine Learning.
+
+---
+
+## AI Engineering Stack
 
 ### Artificial Intelligence
 
-Machine Learning
+<p>
 
-Deep Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-Computer Vision
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
-Natural Language Processing
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-Large Language Models
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
 
-Retrieval Augmented Generation
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
 
-AI Agents
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-LangChain
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
 
-LangGraph
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
 
-### Frameworks and Libraries
-
-PyTorch
-
-Scikit learn
-
-Pandas
-
-NumPy
-
-OpenCV
-
-MediaPipe
-
-spaCy
-
-NLTK
-
-FastAPI
-
-Flask
-
-### Databases
-
-PostgreSQL
-
-pgvector
-
-### Cloud and Tools
-
-Git
-
-GitHub
-
-Docker
-
-AWS
-
-Microsoft Azure
-
-Jupyter Notebook
-
-Anaconda
-
-Google Colab
-
----
-
-# Featured Projects
-
-## VisiCore AI
-
-AI powered diabetic retinopathy detection system built using a Vision Transformer model trained on the EyePACS dataset and evaluated on the APTOS 2019 dataset. The application integrates a locally hosted Qwen2.5 large language model to provide AI generated clinical explanations through a Flask web interface.
-
-**Technologies**
-
-Python
-
-PyTorch
-
-Vision Transformer
-
-Flask
-
-Qwen2.5
-
-llama.cpp
-
----
-
-## Smart Classroom Attendance System
-
-AI powered attendance system using facial recognition to automate attendance tracking. The system combines InsightFace, asynchronous inference, and vector similarity search to reduce attendance time from approximately five minutes to under thirty seconds.
-
-**Technologies**
-
-FastAPI
-
-InsightFace
-
-PostgreSQL
-
-pgvector
-
-Celery
-
-Redis
-
-Next.js
-
----
-
-## Agentic AI Call Center
-
-AI customer support assistant built with LangGraph and Retrieval Augmented Generation to automate customer queries, scheduling, escalation, and ticket creation. Includes persistent conversational memory and Discord integration.
-
-**Technologies**
-
-LangGraph
-
-Groq API
-
-PostgreSQL
-
-pgvector
-
-Docker
-
-Discord API
-
----
-
-## Nexus Chatbot
-
-AI chat assistant capable of answering user queries and retrieving real time information from external APIs while supporting both text and voice interactions.
-
-**Technologies**
-
-Flask
-
-Groq API
-
-Web Speech API
-
-News API
-
-Meteosource API
-
----
-
-# GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabalitech&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabalitech&theme=github-dark&hide_border=true"/>
+### Backend and APIs
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabalitech&layout=compact&theme=github_dark&hide_border=true"/>
+### Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda"/>
+
 </p>
 
 ---
 
-# Let's Connect
+## Featured Projects
 
-Email
+| Project | Description |
+|----------|-------------|
+| **VisiCore AI** | Vision Transformer based diabetic retinopathy detection system with a locally hosted Qwen2.5 large language model for AI assisted clinical explanations. |
+| **Smart Classroom Attendance System** | AI powered facial recognition attendance system using InsightFace, FastAPI, PostgreSQL, pgvector, Celery, and Redis. |
+| **Agentic AI Call Center** | AI customer support assistant built with LangGraph, Retrieval Augmented Generation, PostgreSQL, Docker, and Discord integration. |
+| **Nexus Chatbot** | AI chat assistant with conversational memory, voice interaction, and real time information retrieval from external APIs. |
 
-tayyabalitechpro@gmail.com
+---
 
-LinkedIn
+## Current Focus
 
-https://linkedin.com/in/tayyabalitech
+- AI Engineering
+- Large Language Models
+- AI Agents
+- Retrieval Augmented Generation
+- Computer Vision
+- Backend Systems for AI Applications
+- Model Deployment
 
-GitHub
+---
 
-https://github.com/tayyabalitech
+## GitHub Analytics
 
-Devpost
+<p align="center">
 
-https://devpost.com/tayyabalitech
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabalitech&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabalitech&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabalitech&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabalitech&theme=github-dark"/>
+
+</p>
+
+---
+
+<div align="center">
+
+**Always learning, always building, and always exploring new AI technologies.**
+
+</div>
